@@ -1,0 +1,8 @@
+{
+    "cloud-id": 14351604,
+    "algorithm-language": "Python",
+    "parameters": {},
+    "description": "- Stop Limit Order which triggers a limit order once a specified stop price is hit. After the limit order is sent at the stop price is triggered, the limit order is then triggered when the limit price is reached.",
+    "organization-id": "cf1e1952121cd64f59b5079e72ab34e2",
+    "python-venv": 1
+}

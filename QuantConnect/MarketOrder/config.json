@@ -1,0 +1,8 @@
+{
+    "cloud-id": 14350878,
+    "algorithm-language": "Python",
+    "parameters": {},
+    "description": "- algo for making a buy or sell market order\n- purchasing securities via # of shares instead of a % of portfolio holdings",
+    "organization-id": "cf1e1952121cd64f59b5079e72ab34e2",
+    "python-venv": 1
+}

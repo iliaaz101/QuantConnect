@@ -1,0 +1,8 @@
+{
+    "cloud-id": 14331905,
+    "algorithm-language": "Python",
+    "parameters": {},
+    "description": "algo to sell holdings after some holding time",
+    "organization-id": "cf1e1952121cd64f59b5079e72ab34e2",
+    "python-venv": 1
+}

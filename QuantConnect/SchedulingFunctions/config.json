@@ -1,0 +1,8 @@
+{
+    "cloud-id": 14410132,
+    "algorithm-language": "Python",
+    "parameters": {},
+    "description": "- This algo explores how we can schedule functions so that it's triggered at a certain date/time",
+    "organization-id": "cf1e1952121cd64f59b5079e72ab34e2",
+    "python-venv": 1
+}

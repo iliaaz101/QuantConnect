@@ -1,0 +1,8 @@
+{
+    "cloud-id": 14351245,
+    "algorithm-language": "Python",
+    "parameters": {},
+    "description": "- algo for making a stop market order for buying or selling a security\n-- Buy Stop Market Order: You want to buy at market price ONLY when the specified stop price is reached (e.g. follow the momentum)\n-- Sell Stop Market Order: you want to sell at market price ONLY when the specified stop price is reached. To Lock in profits, to limit loss once gets low enough",
+    "organization-id": "cf1e1952121cd64f59b5079e72ab34e2",
+    "python-venv": 1
+}

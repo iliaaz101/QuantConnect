@@ -1,0 +1,8 @@
+{
+    "cloud-id": 14383040,
+    "algorithm-language": "Python",
+    "parameters": {},
+    "description": "This algo introduces new concepts such as the OnOrderEvent method, which allows us to work with the order tickets. We also learned how to use the self.Portfolio[self.apple.Symbol] method to get the share and price data",
+    "organization-id": "cf1e1952121cd64f59b5079e72ab34e2",
+    "python-venv": 1
+}

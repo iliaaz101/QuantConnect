@@ -1,0 +1,8 @@
+{
+    "cloud-id": 17286472,
+    "algorithm-language": "Python",
+    "parameters": {},
+    "description": "example of universe selection using coarse and fine filters and the OnSecuritiesChange which is triggered whenever our universe changes",
+    "organization-id": "cf1e1952121cd64f59b5079e72ab34e2",
+    "python-venv": 1
+}

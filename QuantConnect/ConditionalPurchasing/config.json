@@ -1,0 +1,8 @@
+{
+    "cloud-id": 17276245,
+    "algorithm-language": "Python",
+    "parameters": {},
+    "description": "- Using conditional purchasing to purchase VNQ or VNQI depending on wether if there has been a %2 gain and that one has higher gains than other, then we invest in the other one",
+    "organization-id": "cf1e1952121cd64f59b5079e72ab34e2",
+    "python-venv": 1
+}
